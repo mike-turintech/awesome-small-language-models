@@ -25,6 +25,9 @@ A curated list of awesome resources, tools, and projects related to small langua
 - [FLAN-T5 Small](https://huggingface.co/google/flan-t5-small) - A smaller version of the FLAN-T5 model
 - [DistilGPT2](https://huggingface.co/distilgpt2) - A distilled version of GPT-2
 - [BERT-Mini](https://huggingface.co/prajjwal1/bert-mini) - A smaller BERT model with 4 layers
+- [Kev-4B Artemis GGUF](https://huggingface.co/turintech/Kev-4B-Artemis-GGUF) - A 2.5 GB GGUF of Jared Palmer's Kev-4B decision model (8.4 GB as BF16) that gives the same answer as the original on 93.0% of 2,000 test decisions and runs on stock llama.cpp
+- [Gemma 4 E4B Artemis GGUF](https://huggingface.co/turintech/gemma-4-E4B-it-Artemis-GGUF) - A 4.2 GB GGUF of Google's Gemma 4 E4B (14.9 GB as BF16), checked against the original on next-token agreement and a 310-item task sample
+- [Gemma 4 E2B Artemis GGUF](https://huggingface.co/turintech/gemma-4-E2B-it-Artemis-GGUF) - A 2.3 GB GGUF of Google's Gemma 4 E2B (9.3 GB as BF16), checked against the original on next-token agreement and a 310-item task sample
 
 ## Frameworks and Tools
 
